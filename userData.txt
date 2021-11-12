@@ -1,4 +1,3 @@
-heng,hengj12,1
 brian,brian@123,0 
 wen,12344,0 
 john,123,0
